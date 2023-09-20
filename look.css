@@ -26,7 +26,8 @@ img {
 }
 .top_text {
     text-align: right;
-    color: black;
+    color: rgb(100, 21, 92);
+
 }
 
 div {
@@ -34,4 +35,16 @@ div {
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
+}
+body{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 500;
+text-align: center;
+}
+.logo {
+    text-align: center;
+}
+#DLC{
+    size: 60px;
 }
